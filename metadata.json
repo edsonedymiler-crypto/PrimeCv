@@ -1,0 +1,6 @@
+{
+  "name": "PrimeCV",
+  "description": "Crie currículos profissionais premium em minutos com otimização ATS e designs que abrem portas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
